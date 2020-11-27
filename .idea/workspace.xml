@@ -29,7 +29,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4223d6cf-7973-45a4-981a-8fa493877781" name="Default Changelist" comment="master修改1" />
+    <list default="true" id="4223d6cf-7973-45a4-981a-8fa493877781" name="Default Changelist" comment="master修改1">
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +52,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectId" id="1krverjm7Gfi4y11AeIxxh821Ar" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -94,10 +97,10 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="822" y="226" key="Github.UntrackedFilesDialog/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1606471700018" />
-    <state x="592" y="275" key="Vcs.Push.Dialog.v2" timestamp="1606472079362">
+    <state x="592" y="275" key="Vcs.Push.Dialog.v2" timestamp="1606472944674">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="592" y="275" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1606472079362" />
+    <state x="592" y="275" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1606472944674" />
     <state x="785" y="382" key="git4idea.ui.GitTagDialog" timestamp="1606472500175">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
